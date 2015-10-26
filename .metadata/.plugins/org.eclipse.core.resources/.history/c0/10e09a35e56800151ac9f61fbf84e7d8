@@ -1,0 +1,8 @@
+public class Application {
+	public static void main(String[] args) {
+		
+		boolean cond = 4 == 3; 
+		
+		System.out.println(cond);
+	}
+}
